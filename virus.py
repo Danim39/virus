@@ -1,7 +1,6 @@
 from PyQt6.QtWidgets import QApplication, QMainWindow, QLabel, QPushButton, QWidget
 from PyQt6.QtGui import QPixmap, QFont
-from mouse import get_position, move
-from PyQt6.QtCore import QTimer
+from mouse import get_position, move
 import rotatescreen as RS
 from PyQt6.QtGui import *
 import pyautogui as pag
